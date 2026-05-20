@@ -1,4 +1,4 @@
-
+A productive social media for everyone 
   # Premium Landing Page Design
 
   This is a code bundle for Premium Landing Page Design. The original project is available at https://www.figma.com/design/j3po0upVnb6H3a9nrlX3JS/Premium-Landing-Page-Design.
@@ -8,4 +8,4 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+A productive social media for everyone 
